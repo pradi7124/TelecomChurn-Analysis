@@ -46,8 +46,8 @@ Churn is one of the most critical KPIs in the telecom industry. This Excel-based
 ## Dashboard Preview
 
 ### Female Customers View
-![Female Dashboard](female.png)
+![Female Dashboard](FEMALE.png)
 
 ### Male Customers View
-![Male Dashboard](male.png)
+![Male Dashboard](MALE.png)
 
